@@ -1,0 +1,1 @@
+# SquaredNumber_learncpp
